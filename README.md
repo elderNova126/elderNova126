@@ -45,19 +45,19 @@ I’m a full-stack developer and machine learning engineer with a passion for bu
 
 ## 📂 Highlighted Projects
 
-### 🔷 [Voter-list Entity extract project]([https://github.com/your-username/image-classifier](https://github.com/elderNova126/voter_list_projects))
+### 🔷 [Voter-list Entity extract project](https://github.com/elderNova126/voter_list_projects)
 > Fastapi + Next.js + Typescript + Supabase
 Tool for creating, managing, and automating SOPs with AI and collaborative templates.
 
-### 🔷 [Flowcraft]([https://github.com/shagunmistry/FlowCraft])
+### 🔷 [Flowcraft]([https://github.com/shagunmistry/FlowCraft)
 > Flask + PyTorch + React.js  
 Auto converting images of voter list to xlsx.
 
-### 🔷 [AiResumeMaker]([https://github.com/your-username/saas-dashboard](https://github.com/elderNova126/AiResumeMaker))
+### 🔷 [AiResumeMaker](https://github.com/elderNova126/AiResumeMaker)
 > React.js + Express.js + Openai + Railway  
 Fully containerized SaaS app with role-based access control and payment integration.
 
-### 🔷 [Stimulus]([https://github.com/your-username/3d-supplier-map](https://github.com/elderNova126/StimulusApp))
+### 🔷 [Stimulus](https://github.com/elderNova126/StimulusApp)
 > React.js + Nest.js + Type script + aws + graphql  
 A full-stack platform for project management, supplier collaboration, and reporting.
 
