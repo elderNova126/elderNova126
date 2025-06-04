@@ -32,17 +32,17 @@ I’m a full-stack developer and machine learning engineer with a passion for bu
 
 ## 📂 Highlighted Projects
 
-### 🔷 [AI-Powered Image Classifier](https://github.com/your-username/image-classifier)
-> FastAPI + PyTorch + React.js  
-A web platform to classify images using deep learning models.
+### 🔷 [Voter-list Entity extract project]([https://github.com/your-username/image-classifier](https://github.com/elderNova126/voter_list_projects))
+> Flask + PyTorch + React.js  
+Auto converting images of voter list to xlsx.
 
-### 🔷 [Multi-Tenant SaaS Dashboard](https://github.com/your-username/saas-dashboard)
-> Next.js + Nest.js + PostgreSQL + Docker  
+### 🔷 [AiResumeMaker]([https://github.com/your-username/saas-dashboard](https://github.com/elderNova126/AiResumeMaker))
+> React.js + Express.js + Openai + Railway  
 Fully containerized SaaS app with role-based access control and payment integration.
 
-### 🔷 [3D Supplier Map](https://github.com/your-username/3d-supplier-map)
-> Three.js + Next.js + Flask  
-Interactive 3D visualization for supply chain data.
+### 🔷 [Stimulus]([https://github.com/your-username/3d-supplier-map](https://github.com/elderNova126/StimulusApp))
+> React.js + Nest.js + Type script + aws + graphql  
+A full-stack platform for project management, supplier collaboration, and reporting.
 
 ---
 
