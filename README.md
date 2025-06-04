@@ -63,8 +63,3 @@ A full-stack platform for project management, supplier collaboration, and report
 
 ---
 
-## 📈 GitHub Stats
-
-![Chan's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=default)
-
----
