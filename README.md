@@ -4,8 +4,9 @@ I’m a full-stack developer and machine learning engineer with a passion for bu
 ## 🚀 Tech Stack
 
 ### 🖥 Frontend
-- Frameworks: **React.js**, **Next.js**, **Vue.js**
-- UI Libraries: Tailwind CSS, Material UI, Bootstrap
+- Frameworks: **React.js**, **Next.js**, **Vue.js**, **Nuxt.js**
+- UI Libraries: Tailwind CSS, Material UI, Bootstrap, SASS/SCSS, Styled Components,
+- Build Tools: Webpack, Vite, Babel
 - SSR/SSG: Next.js, Nuxt.js
 
 ### 🛠 Backend
@@ -13,6 +14,7 @@ I’m a full-stack developer and machine learning engineer with a passion for bu
 - JavaScript/TypeScript: **Nest.js**, **Express.js**
 - PHP: **Laravel**
 - RESTful & GraphQL APIs
+- Auth: JWT, OAuth2, Firebase Auth
 
 ### ☁️ DevOps & Infrastructure
 - CI/CD: GitHub Actions, GitLab CI, Jenkins
@@ -20,11 +22,22 @@ I’m a full-stack developer and machine learning engineer with a passion for bu
 - Cloud & Containerization: Docker, Kubernetes, AWS, GCP, Vercel, Heroku
 - Databases: PostgreSQL, MySQL, MongoDB, Redis, SQLite
 
+### Database
+- SQL: PostgreSQL, MySQL, SQLite
+- NoSQL: MongoDB, Redis, Firebase Realtime DB, DynamoDB
+- ORMs: Prisma, TypeORM, SQLAlchemy, Django ORM
+  
 ### 🤖 ML / AI
 - Machine Learning, LLMs (OpenAI, LangChain, Transformers)
 - Computer Vision, OCR, Image Segmentation
 - Python: Scikit-learn, PyTorch, TensorFlow, OpenCV
+- Model deployment: FastAPI, Flask, Docker, Streamlit, Gradio
 
+### Testing & quality
+- Unit & E2E Testing: Jest, Cypress, PyTest, Supertest
+- Linting & Formatting: ESLint, Prettier, Black
+- TDD / BDD workflows
+  
 ### 📱 Mobile
 - React Native, Flutter (basic), API integrations
 
@@ -33,6 +46,10 @@ I’m a full-stack developer and machine learning engineer with a passion for bu
 ## 📂 Highlighted Projects
 
 ### 🔷 [Voter-list Entity extract project]([https://github.com/your-username/image-classifier](https://github.com/elderNova126/voter_list_projects))
+> Fastapi + Next.js + Typescript + Supabase
+Tool for creating, managing, and automating SOPs with AI and collaborative templates.
+
+### 🔷 [Voter-list Entity extract project]([https://github.com/shagunmistry/FlowCraft]))
 > Flask + PyTorch + React.js  
 Auto converting images of voter list to xlsx.
 
