@@ -46,12 +46,12 @@ I’m a full-stack developer and machine learning engineer with a passion for bu
 ## 📂 Highlighted Projects
 
 ### 🔷 [Voter-list Entity extract project](https://github.com/elderNova126/voter_list_projects)
-> Fastapi + Next.js + Typescript + Supabase
-Tool for creating, managing, and automating SOPs with AI and collaborative templates.
-
-### 🔷 [Flowcraft](https://github.com/shagunmistry/FlowCraft)
 > Flask + PyTorch + React.js  
 Auto converting images of voter list to xlsx.
+
+### 🔷 [Flowcraft](https://github.com/shagunmistry/FlowCraft)
+> Fastapi + Next.js + Typescript + Supabase
+Tool for creating, managing, and automating SOPs with AI and collaborative templates.
 
 ### 🔷 [AiResumeMaker](https://github.com/elderNova126/AiResumeMaker)
 > React.js + Express.js + Openai + Railway  
