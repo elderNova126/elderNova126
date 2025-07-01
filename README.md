@@ -58,9 +58,6 @@ Tool for creating, managing, and automating SOPs with AI and collaborative templ
 > React.js + Express.js + Openai + Railway  
 Fully containerized SaaS app with role-based access control and payment integration.
 
-### 🔷 [Stimulus](https://github.com/elderNova126/StimulusApp)
-> React.js + Nest.js + Type script + aws + graphql  
-A full-stack platform for project management, supplier collaboration, and reporting.
 
 ---
 
