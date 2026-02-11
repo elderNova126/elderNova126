@@ -1,5 +1,4 @@
-
-I’m a full-stack developer and machine learning engineer with a passion for building scalable web apps, cloud-native services, and intelligent systems.
+With over 8 years of experience in full-stack development, I specialize in creatingscalableweb applications and intelligent automation systems. My expertise spans modernwebtechnologies, AI/ML integration, and cloud infrastructure. I'mpassionate about leveragingartificial intelligence to solve complex business problems and create innovative solutionsthatdrive real-world impact. My approach combines technical excellence with creativeproblemsolving
 
 ## 🚀 Tech Stack
 
@@ -15,6 +14,13 @@ I’m a full-stack developer and machine learning engineer with a passion for bu
 - PHP: **Laravel**
 - RESTful & GraphQL APIs
 - Auth: JWT, OAuth2, Firebase Auth
+  
+### 🤖 AI Expertise
+- Machine Learning, LLMs (OpenAI, LangChain, Transformers)
+- Computer Vision, OCR, Image Segmentation
+- Python: Scikit-learn, PyTorch, TensorFlow, OpenCV
+- Model deployment: FastAPI, Flask, Docker, Streamlit, Gradio
+- LLM (GPT-4/5, Claude, Gemini), RAG architectures, Langchain/Llamalndex, prompt engineering & AI agents, NLP, speech & voice AI, and ML frameworks(pytorch, tensorflow, scikitlearn)
 
 ### ☁️ DevOps & Infrastructure
 - CI/CD: GitHub Actions, GitLab CI, Jenkins
@@ -26,12 +32,6 @@ I’m a full-stack developer and machine learning engineer with a passion for bu
 - SQL: PostgreSQL, MySQL, SQLite
 - NoSQL: MongoDB, Redis, Firebase Realtime DB, DynamoDB
 - ORMs: Prisma, TypeORM, SQLAlchemy, Django ORM
-  
-### 🤖 ML / AI
-- Machine Learning, LLMs (OpenAI, LangChain, Transformers)
-- Computer Vision, OCR, Image Segmentation
-- Python: Scikit-learn, PyTorch, TensorFlow, OpenCV
-- Model deployment: FastAPI, Flask, Docker, Streamlit, Gradio
 
 ### Testing & quality
 - Unit & E2E Testing: Jest, Cypress, PyTest, Supertest
